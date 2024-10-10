@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">HTML / CSS / JS</h3>
+<h3 align="left">html / css / js and frameworks</h3>
 
 ###
 
@@ -33,7 +33,7 @@
 
 <br clear="both">
 
-<h1 align="left">Programming Languages</h1>
+<h1 align="left">Programming Languages and frameworks</h1>
 
 ###
 
