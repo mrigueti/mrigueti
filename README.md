@@ -18,38 +18,34 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
+
+###
 
 ###
 
